@@ -1,0 +1,5 @@
+[console_scripts]
+tbp = tb3_move.tb3_basic_move:main
+tbs = tb3_move.tb3_move_server:main
+twp = tb3_move.followwaypoint:main
+

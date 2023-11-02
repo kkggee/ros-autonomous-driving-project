@@ -1,0 +1,9 @@
+source;share/imgtran/hook/pythonpath.ps1
+source;share/imgtran/hook/pythonpath.dsv
+source;share/imgtran/hook/pythonpath.sh
+source;share/imgtran/hook/ament_prefix_path.ps1
+source;share/imgtran/hook/ament_prefix_path.dsv
+source;share/imgtran/hook/ament_prefix_path.sh
+source;../../build/imgtran/share/imgtran/hook/pythonpath_develop.ps1
+source;../../build/imgtran/share/imgtran/hook/pythonpath_develop.dsv
+source;../../build/imgtran/share/imgtran/hook/pythonpath_develop.sh

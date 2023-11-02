@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+imgtran/__init__.py
+imgtran/followwaypoint.py
+imgtran/image_transfer.py
+imgtran.egg-info/PKG-INFO
+imgtran.egg-info/SOURCES.txt
+imgtran.egg-info/dependency_links.txt
+imgtran.egg-info/entry_points.txt
+imgtran.egg-info/requires.txt
+imgtran.egg-info/top_level.txt
+imgtran.egg-info/zip-safe
+resource/imgtran

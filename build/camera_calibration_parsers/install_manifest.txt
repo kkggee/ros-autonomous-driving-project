@@ -1,0 +1,3 @@
+/home/yy/robot_ws/install/camera_calibration_parsers/lib/libcamera_calibration_parsers.so
+/home/yy/robot_ws/install/camera_calibration_parsers/share/camera_calibration_parsers/cmake/export_camera_calibration_parsersExport.cmake
+/home/yy/robot_ws/install/camera_calibration_parsers/share/camera_calibration_parsers/cmake/export_camera_calibration_parsersExport-noconfig.cmake

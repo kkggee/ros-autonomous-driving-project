@@ -1,0 +1,4 @@
+[console_scripts]
+followwaypoint = imgtran.followwaypoint:main
+imgtransfer = imgtran.image_transfer:main
+

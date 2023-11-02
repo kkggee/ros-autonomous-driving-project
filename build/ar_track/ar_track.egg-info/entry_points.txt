@@ -1,0 +1,5 @@
+[console_scripts]
+pub_tb3_pose2d = ar_track.script.pub_tb3_pose2d:main
+stop_tb3 = ar_track.script.stop_tb3:main
+track_marker = ar_track.script.track_marker:main
+

@@ -1,0 +1,4 @@
+/home/yy/robot_ws/build/class_test_interfaces/rosidl_adapter/class_test_interfaces:msg/Intfloat.idl
+/home/yy/robot_ws/build/class_test_interfaces/rosidl_adapter/class_test_interfaces:srv/AddThreeInts.idl
+/home/yy/robot_ws/build/class_test_interfaces/rosidl_adapter/class_test_interfaces:srv/MinusThreeInts.idl
+/home/yy/robot_ws/build/class_test_interfaces/rosidl_adapter/class_test_interfaces:action/Fibonacci.idl
